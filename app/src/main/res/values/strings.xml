@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinancialManager</string>
+    <string name="title_contas">Suas Contas</string>
+    <string name="Gravar">Gravar</string>
+</resources>
